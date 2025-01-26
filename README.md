@@ -1,8 +1,7 @@
 実行環境:
-- Windows
 - Node Version: v20.11.0
 - NPM Version: 10.2.4
-- Visual Studio
+- Visual Studio Code
 
 起動手順:
 1. プロジェクトをインストール
